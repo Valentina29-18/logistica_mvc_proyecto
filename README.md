@@ -1,6 +1,6 @@
 # Central de Despachos
 
-Programa de consola para administrar una operacion pequena de logistica de transporte.
+Programa de consola para administrar una operacion pequeña de logistica de transporte.
 
 ## Que incluye
 
